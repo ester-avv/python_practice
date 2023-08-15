@@ -1,4 +1,5 @@
-# :construction: README em construção ! :construction:
+# Algorithms project
+The idea of the project is to practice the understanding of algorithm complexity.
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
